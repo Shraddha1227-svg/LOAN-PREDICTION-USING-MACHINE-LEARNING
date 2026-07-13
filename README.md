@@ -10,7 +10,7 @@ Address class imbalance using SMOTE.
 Compare multiple classification algorithms.
 Evaluate models using various performance metrics.
 Select the best-performing model for prediction.
-📂 Dataset Features
+ Dataset Features
 
 The dataset includes applicant information such as:
 
@@ -29,7 +29,7 @@ Property Area
 Target Variable
 
 Loan Status (Approved / Rejected)
-🧹 Data Preprocessing
+Data Preprocessing
 
 The following preprocessing steps were performed:
 
